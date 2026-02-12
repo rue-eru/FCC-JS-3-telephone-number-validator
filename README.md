@@ -9,10 +9,6 @@ A US telephone number validator application — the third project in FreeCodeCam
 
 The project only consists of **JavaScript** + **HTML** + **CSS** and was made as a part of FreeCodeCamp's JavaScript Algorithms and Data Structures course.
 
->[My official FCC's Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)
-
-![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png)
-
 ---
 
 ## 📋 Project Requirements
@@ -70,7 +66,9 @@ This project fulfills all **34 user stories** from FreeCodeCamp's "Build a Telep
 
 The project that is heavy on regex. So it was a tough one back then. And even right now I'd google to check how to properly apply it. I remember staring at regex patterns for hours, testing one format after another, googling, watching videos just to pass the requirments. But styling it with CSS was so much fun! And the phone design actually turned out looking like a phone? I still love all the CSS I did in this course.
 
-![Page Gif](./public/demo.gif)
+| **Telephone Number Validator Preview** |
+|---|
+| ![Page Gif](./public/demo.gif) |
 
 <div align="right"><i>submitted to FreeCodeCamp on Nov 23, 2024</i></div>
 
@@ -81,8 +79,7 @@ The project that is heavy on regex. So it was a tough one back then. And even ri
 [![Live Demo](https://img.shields.io/badge/demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rue-eru.github.io/FCC-JS-3-telephone-number-validator/)
 ---
 
-*Part of my [FreeCodeCamp journey](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)*
-
-
---- 
+| My official [FreeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8) |
+|---|
+| ![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png) |
 
